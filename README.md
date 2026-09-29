@@ -25,6 +25,16 @@ For an agent that supports installing skills: “Install `recruiting-candidate-o
 
 The [skill instructions](skills/recruiting-candidate-outreach-prep/SKILL.md) are the canonical package. Installing them does not authenticate into the product or grant rights to third-party data.
 
+## Recommended product skill
+
+For full product operation, install the companion brand skill too:
+
+```bash
+npx skills add EmailAwesome/emailawesome-email-verification-agent-skills --skill emailawesome
+```
+
+The use-case skill defines the job and output; the brand skill helps configure and use the actual product.
+
 ## Access and review
 
 Confirm the recruiter may use and submit each candidate address and has a lawful reason for processing it. Keep candidate data private, minimize retention and honor suppression. Base relevance on the vacancy and supplied experience; do not infer protected traits, fabricate qualifications, scrape social profiles behind access controls or auto-reject candidates. Sending follows local employment/privacy rules and is outside this skill.

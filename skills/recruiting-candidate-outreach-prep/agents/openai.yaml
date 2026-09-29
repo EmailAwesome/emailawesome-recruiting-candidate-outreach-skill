@@ -1,0 +1,4 @@
+interface:
+  display_name: "Recruiting Email Outreach Preparation with Email Awesome"
+  short_description: "Prepare evidence-based outputs for this workflow"
+  default_prompt: "Use $recruiting-candidate-outreach-prep to prepare my authorized workflow and explain the product steps."

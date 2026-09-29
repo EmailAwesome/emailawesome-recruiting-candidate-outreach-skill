@@ -1,5 +1,7 @@
 # Recruiting Email Outreach Preparation with Email Awesome
 
+**Official Email Awesome agent skills** · Published and maintained by [EmailAwesome](https://github.com/EmailAwesome), the official Email Awesome GitHub organization. [Visit Email Awesome](https://www.emailawesome.com/).
+
 A role-relevant shortlist with verification ledger, missing-fit questions and first-contact drafts for review. This Agent Skill helps **recruiters and staffing agencies preparing a first contact for one open role** prepare an evidence-based result using Email Awesome for email address verification before first contact.
 
 

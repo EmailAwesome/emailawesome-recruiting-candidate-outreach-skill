@@ -2,6 +2,9 @@
 name: recruiting-candidate-outreach-prep
 description: "Prepare a recruiter’s first candidate contact from an authorized shortlist: verify addresses with Email Awesome, check role relevance and draft a job-specific message. Use before outreach, not for sending or candidate scoring on protected traits."
 license: MIT
+metadata:
+  author: EmailAwesome
+  repository: https://github.com/EmailAwesome/emailawesome-recruiting-candidate-outreach-skill
 ---
 
 # Recruiting Email Outreach Preparation with Email Awesome
